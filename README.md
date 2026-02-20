@@ -2,7 +2,8 @@
 
 UNSW ENGINEERING STUDENT
 
-CSE subteam @ USNW ROCKETRY\n
+CSE subteam @ USNW ROCKETRY
+
 Web Devteam @ UNSW CEUS
 
 - Currently working on robotic projects
