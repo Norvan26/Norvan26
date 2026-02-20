@@ -1,6 +1,6 @@
 ## HALLO 👋
 
-UNSW ENGINEERING STUDENT
+HI, i'm an Electrical Engineering student at UNSW learning as much as I can!
 
 CSE subteam @ USNW ROCKETRY
 
