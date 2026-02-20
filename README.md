@@ -3,6 +3,7 @@
 Hi, i'm an Electrical Engineering student at UNSW learning as much as I can!
 
 CSE subteam @ USNW ROCKETRY
+
 Web Devteam @ UNSW CEUS
 
 - Currently working on robotic projects
