@@ -12,3 +12,7 @@ Web Devteam @ UNSW CEUS
 - I'm looking for a mentor 🥺
 - Ask me about whatever 
 - How to reach me: luffydox1600@gmail.com 📫 
+
+
+Rocketry:https://rocketry.unsw.edu.au/
+CEUS:https://www.ceusunsw.com/
