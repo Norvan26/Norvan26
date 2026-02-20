@@ -1,6 +1,5 @@
 ## HALLO 👋
 
-<!--
 UNSW ENGINEERING STUDENT
 
 CSE subteam @ USNW ROCKETRY
@@ -12,4 +11,3 @@ Web Devteam @ UNSW CEUS
 - I'm looking for a mentor 🥺
 - Ask me about whatever 
 - How to reach me: luffydox1600@gmail.com 📫 
--->
